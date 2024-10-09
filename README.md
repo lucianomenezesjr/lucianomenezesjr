@@ -1,0 +1,4 @@
+- I’m @lucianomenezesjr
+- Faço Desenvolvimento de Sistemas.
+- Tenho conhecimento intermediário em python e suas tecnologias como django e flask.
+- Programa em Java, javascript, python e tenho domínio em HTML, CSS, além de saber usar o framework bootstrap.
