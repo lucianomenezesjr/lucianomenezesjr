@@ -1,4 +1,4 @@
-### Hi there, I'm Luciano Júnior 👋
+### Sou Luciano Júnior 👋
 - Faço Análise Desenvolvimento de Sistemas e sou técnico em Desenvolvimento de Sistemas.
 - Tenho conhecimento intermediário em python e suas tecnologias como django e flask.
 - Programo em Java, javascript, python e tenho conhecimentos em HTML, CSS, além de saber usar o framework bootstrap.
