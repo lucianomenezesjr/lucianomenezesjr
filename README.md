@@ -1,8 +1,16 @@
-- I’m @lucianomenezesjr
-- Faço Desenvolvimento de Sistemas.
+### Hi there, I'm Luciano Júnior 👋
+- Faço Análise Desenvolvimento de Sistemas e sou técnico em Desenvolvimento de Sistemas.
 - Tenho conhecimento intermediário em python e suas tecnologias como django e flask.
 - Programo em Java, javascript, python e tenho conhecimentos em HTML, CSS, além de saber usar o framework bootstrap.
 ![snake gif](https://github.com/lucianomenezesjr/lucianomenezesjr/blob/output/github-snake-dark.svg)
+
+
+---
+### 🚀 GitHub Stats
+
+![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianomenezesjr&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomenezesjr&layout=compact&theme=radical)
 
 <h2> 🚀 &nbsp;Algumas linguagens e tecnologias que já usei</h2>
 <p align="left">
@@ -17,3 +25,11 @@
 
 
 </p>
+
+---
+
+
+
+
+
+
