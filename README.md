@@ -8,14 +8,14 @@
 ---
 ### 🚀 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianomenezesjr&theme=radical)
-
 ![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianomenezesjr&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomenezesjr&layout=compact&theme=radical)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianomenezesjr&theme=radical)
 
-<h2> 🚀 &nbsp;Algumas linguagens e tecnologias que já usei</h2>
+
+<h2> 🚀 Algumas linguagens e tecnologias que já usei</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="45" height="45"/>
@@ -29,7 +29,7 @@
 
 </p>
 
----
+
 
 
 
