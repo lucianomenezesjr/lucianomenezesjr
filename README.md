@@ -8,9 +8,12 @@
 ---
 ### 🚀 GitHub Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianomenezesjr&theme=radical)
+
 ![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianomenezesjr&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomenezesjr&layout=compact&theme=radical)
+
 
 <h2> 🚀 &nbsp;Algumas linguagens e tecnologias que já usei</h2>
 <p align="left">
