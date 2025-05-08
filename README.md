@@ -56,7 +56,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenv
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucianomenezesjr/lucianomenezesjr/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contributions"/>
+  <img src="https://raw.githubusercontent.com/lucianomenezesjr/lucianomenezesjr/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="80%"/>
 </div>
 
 ---
