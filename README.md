@@ -6,9 +6,11 @@
 
 
 ---
-### 🚀 GitHub Stats
+### 🚀 GitHub 
 
 ![Luciano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucianomenezesjr&show_icons=true&theme=radical)
+
+![3D Contributions](https://raw.githubusercontent.com/lucianomenezesjr/lucianomenezesjr/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomenezesjr&layout=compact&theme=radical)
 
@@ -28,12 +30,8 @@
 
 
 </p>
-
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
-  
-![3D Contributions](https://raw.githubusercontent.com/lucianomenezesjr/lucianomenezesjr/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
  
