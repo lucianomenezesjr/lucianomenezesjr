@@ -44,7 +44,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenv
 - **Controle de Versão**: Git, GitHub, GitHub Desktop
 - **Bancos de Dados**: PostgreSQL, MySQL
 - **Contêineres**: Docker
-- **Outros**: Postman (para testes de API), Figma (para prototipagem de interfaces)
+- **Outros**: Figma (para prototipagem de interfaces)
 
 ---
 
