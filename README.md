@@ -1,4 +1,4 @@
-# Olá, eu sou Luciano Júnior! 👋
+# Olá, eu sou Luciano Júnior!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, desenvolvo soluções web e backend com foco em eficiência, escalabilidade e experiência do usuário.
 
@@ -81,8 +81,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades e paixão por dese
 
 Estou sempre buscando evoluir! Atualmente, estou focado em:
 - Aprofundar meus conhecimentos em **Next.js** e **TypeScript** para desenvolvimento frontend.
-- Explorar **DevOps** com ferramentas como **Kubernetes** e **CI/CD**.
-- Contribuir para projetos open-source no GitHub.
+- Aprofundar meus conhecimentos em C# e .NET para desenvolvimento backend.
 
 ---
 
