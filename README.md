@@ -33,8 +33,7 @@
   
 
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucianomenezesjr&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianomenezesjr&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+![3D Contributions](https://raw.githubusercontent.com/lucianomenezesjr/lucianomenezesjr/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 
  
