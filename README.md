@@ -36,7 +36,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" title="VS Code"/>
 </p>
 
 ### Ferramentas e Ambientes
