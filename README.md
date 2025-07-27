@@ -56,14 +56,16 @@ Aqui estão alguns projetos que demonstram minhas habilidades e paixão por dese
 *2024 - 2025*  
 - Desenvolvimento de um sistema MVC para uma clínica de fisioterapia fictícia.  
 - Tecnologias: PHP, MySQL, Bootstrap.
-  [Ver Repositório](https://github.com/lucianomenezesjr/projeto-clinica-final)
+  
+[Ver Repositório](https://github.com/lucianomenezesjr/projeto-clinica-final)
 
 ### Sistema de Controle de Acesso 
 *2025 - 2025*  
 - Desenvolvimento de um sistema com integração de API backend e aplicação frontend para um sistema de controle de acesso.  
 - Funcionalidades: Visualização de turma, alunos, solicitações de entrada e saida, autorização, cancelamento ou rejeição das solicitações e dashboards interativos.
 - Tecnologias: ASP .NET, Supabase (Postgres), Next.js.
-  [Ver Repositório](https://github.com/lucianomenezesjr/ProjetoControleDeFluxo)
+
+[Ver Repositório](https://github.com/lucianomenezesjr/ProjetoControleDeFluxo)
 
 ### Sistema de Loja de Roupa - E-commerce
 *2025 - 2025*  
