@@ -8,9 +8,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenv
 - Gerencio projetos com **Git** e trabalho com bancos de dados relacionais como **PostgreSQL** e **MySQL**.
 - Utilizo **Docker** para criar e gerenciar aplicações em contêineres.
 
-🌟 **Nível de conhecimento**:
-- **Intermediário**: Python, Django, Flask, C# (.NET), Java (Spring Boot), PHP, PostgreSQL, MySQL, JavaScript, Tailwind CSS, Bootstrap.
-- **Básico**: Next.js, Docker.
+🌟 **Conhecimentos**:
+- **Intermediário**: Python, Django, Flask, C# (ASP .NET), Java (Spring Boot), PHP, PostgreSQL, MySQL, JavaScript, Tailwind CSS, Next.js, Docker, Git.
 
 ---
 
@@ -34,14 +33,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git"/>
 </p>
-
-### Ferramentas e Ambientes
-- **Editores/IDEs**: Visual Studio Code, Visual Studio
-- **Controle de Versão**: Git, GitHub, GitHub Desktop
-- **Bancos de Dados**: PostgreSQL, MySQL
-- **Contêineres**: Docker
-- **Outros**: Figma (para prototipagem de interfaces)
-
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
@@ -61,15 +52,24 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenv
 
 Aqui estão alguns projetos que demonstram minhas habilidades e paixão por desenvolvimento:
 
-- **[SP Medical Group - Clínica Médica]**  
-  Site para uma clínica de fisioterapia, com sistema de agendamento e gerenciamento de pacientes.  
-  **Tecnologias**: PHP, MySQL, Bootstrap.  
+### Sistema de Clínica de Fisioterapia  
+*2024 - 2025*  
+- Desenvolvimento de um sistema MVC para uma clínica de fisioterapia fictícia.  
+- Tecnologias: PHP, MySQL, Bootstrap.
   [Ver Repositório](https://github.com/lucianomenezesjr/projeto-clinica-final)
 
-- **[Loja de Roupa]**  
-  E-commerce personalizado para uma loja de roupas, com design moderno e integração de pagamentos.  
-  **Tecnologias**: Tailwind CSS, Next.js, C# (.NET).  
-  [Ver Repositório](https://github.com/lucianomenezesjr/loja-roupa)
+### Sistema de Controle de Acesso 
+*2025 - 2025*  
+- Desenvolvimento de um sistema com integração de API backend e aplicação frontend para um sistema de controle de acesso.  
+- Funcionalidades: Visualização de turma, alunos, solicitações de entrada e saida, autorização, cancelamento ou rejeição das solicitações e dashboards interativos.
+- Tecnologias: ASP .NET, Supabase (Postgres), Next.js.
+  [Ver Repositório](https://github.com/lucianomenezesjr/ProjetoControleDeFluxo)
+
+### Sistema de Loja de Roupa - E-commerce
+*2025 - 2025*  
+- Desenvolvimento de um sistema com integração de API backend e aplicação frontend para uma loja de roupas.  
+- Funcionalidades: Visualização de produtos, pagamentos para clientes, gestão de estoque e produtos para funcionários.  
+- Tecnologias: ASP .NET, Postgres, Next.js.
 
 ---
 
