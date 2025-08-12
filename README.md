@@ -3,13 +3,10 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, desenvolvo soluções web e backend com foco em eficiência, escalabilidade e experiência do usuário.
 
 🔍 **O que eu faço?**
-- Crio aplicações web robustas com **Python (Django, Flask)**, **Java (Spring Boot)**, **C# (.NET)** e **JavaScript**.
-- Desenvolvo interfaces modernas e responsivas usando **HTML**, **CSS**, **Bootstrap** e **Tailwind CSS**.
+- Crio aplicações web robustas com **Python (Django, Flask e fastAPI)**, **Java (Spring Boot)**, **C# (ASP .NET)**, **Typescript** e **JavaScript**.
+- Desenvolvo interfaces modernas e responsivas usando **Next.js**, **Typescript** **Tailwind CSS**.
 - Gerencio projetos com **Git** e trabalho com bancos de dados relacionais como **PostgreSQL** e **MySQL**.
 - Utilizo **Docker** para criar e gerenciar aplicações em contêineres.
-
-🌟 **Conhecimentos**:
-- **Intermediário**: Python, Django, Flask, C# (ASP .NET), Java (Spring Boot), PHP, PostgreSQL, MySQL, JavaScript, Tailwind CSS, Next.js, Docker, Git.
 
 ---
 
@@ -72,14 +69,6 @@ Aqui estão alguns projetos que demonstram minhas habilidades e paixão por dese
 - Desenvolvimento de um sistema com integração de API backend e aplicação frontend para uma loja de roupas.  
 - Funcionalidades: Visualização de produtos, pagamentos para clientes, gestão de estoque e produtos para funcionários.  
 - Tecnologias: ASP .NET, Postgres, Next.js.
-
----
-
-## 🎯 Objetivos e Aprendizado
-
-Estou sempre buscando evoluir! Atualmente, estou focado em:
-- Aprofundar meus conhecimentos em **Next.js** e **TypeScript** para desenvolvimento frontend.
-- Aprofundar meus conhecimentos em C# e .NET para desenvolvimento backend.
 
 ---
 
