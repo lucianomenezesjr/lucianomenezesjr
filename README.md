@@ -65,14 +65,22 @@ APIs REST em C# (ASP.NET) e Python (FastAPI) para plataforma de segurança finan
 <td width="50%" valign="top">
 
 **🏭 LabControl 4.0** · [Repository](https://github.com/labControl4-0)
+<br>
+<br>
 Plataforma de monitoramento industrial implantada na AWS, com arquitetura em camadas (Edge/IoT, Supervisório, Gerencial, Estratégico), monitoramento em tempo real de máquinas e consumo energético, autenticação JWT com controle de perfis.
+<br>
+<br>
 `ASP.NET` `PostgreSQL` `IoT` `Next.js` `AWS`
 
 </td>
 <td width="50%" valign="top">
 
 **🧠 BCTI — Banco de Conhecimentos Técnicos Inteligente** · [Repository](https://github.com/Pj-integrador-B-C-T-I/bancoDeDadosInteligente)
+<br>
+<br>
 Sistema web com chat inteligente integrado a modelo de IA para responder perguntas com base em artigos cadastrados, exibindo as fontes consultadas. MVP entregue em 3 semanas.
+<br>
+<br>
 `.NET` `Next.js` `PostgreSQL` `IA`
 
 </td>
@@ -82,6 +90,8 @@ Sistema web com chat inteligente integrado a modelo de IA para responder pergunt
 
 **⚽ Wrapped de Temporada** — *Hackathon Bundesliga x AWS* 
 App mobile de estatísticas personalizadas por temporada, com backend em Java e banco PostgreSQL hospedado em Amazon RDS, implantado em infraestrutura AWS.
+<br>
+<br>
 `React Native` `Java` `PostgreSQL` `AWS RDS`
 
 </td>
@@ -89,6 +99,8 @@ App mobile de estatísticas personalizadas por temporada, com backend em Java e 
 
 **📦 Recebimento Automatizado de Encomendas** — *TCC, Automação Industrial*
 Compartimento automatizado com identificação por código, geração de QR Code, validação de entrega e notificação ao proprietário — projetado, construído (corte a laser) e programado de ponta a ponta.
+<br>
+<br>
 `Raspberry Pi` `IoT` `QR Code`
 
 </td>
