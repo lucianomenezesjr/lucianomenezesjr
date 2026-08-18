@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,100:38BDF8&text=Luciano%20Júnior&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,100:38BDF8&text=Luciano%20Jr&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 <div align="center">
 
