@@ -1,83 +1,122 @@
-# Olá, eu sou Luciano Júnior!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e Técnico em Desenvolvimento de Sistemas. Apaixonado por tecnologia, desenvolvo soluções web e backend com foco em eficiência, escalabilidade e experiência do usuário.
-
-🔍 **O que eu faço?**
-- Crio aplicações web robustas com **Python (Django, Flask e fastAPI)**, **Java (Spring Boot)**, **C# (ASP .NET)**, **Typescript** e **JavaScript**.
-- Desenvolvo interfaces modernas e responsivas usando **Next.js**, **Typescript** **Tailwind CSS**.
-- Gerencio projetos com **Git** e trabalho com bancos de dados relacionais como **PostgreSQL** e **MySQL**.
-- Utilizo **Docker** para criar e gerenciar aplicações em contêineres.
-
----
-
-## 🚀 Minhas Habilidades
-
-### Linguagens e Tecnologias
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45"/>
-</p>
-
----
-
-## 📊 Minhas Estatísticas no GitHub
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6D28D9,100:38BDF8&text=Luciano%20Júnior&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucianomenezesjr&show_icons=true&theme=radical&hide_border=true" alt="Luciano's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomenezesjr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=38BDF8&size=22&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+J%C3%BAnior+(.NET%2FC%23);Sistemas+Antifraude+Banc%C3%A1rios;Em+certifica%C3%A7%C3%A3o+AWS+Developer+Associate;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucianomenezesjr/lucianomenezesjr/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="80%"/>
+<samp>
+
+Desenvolvedor backend na **2RPnet**, atuando em sistemas de prevenção e detecção de fraude para uma plataforma bancária de alta volumetria. AWS Academy Graduate (Cloud Developing), com projeto próprio em produção na AWS e estudo ativo para a certificação **AWS Certified Developer Associate**. Formação técnica dupla em Desenvolvimento de Sistemas e Automação Industrial.
+
+</samp>
 </div>
 
----
+<br>
 
-## 🌱 Projetos em Destaque
+<div align="center">
+<samp><h3>💼 Experiência</h3></samp>
 
-Aqui estão alguns projetos que demonstram minhas habilidades e paixão por desenvolvimento:
+<samp>
 
-### Sistema de Clínica de Fisioterapia  
-*2024 - 2025*  
-- Desenvolvimento de um sistema MVC para uma clínica de fisioterapia fictícia.  
-- Tecnologias: PHP, MySQL, Bootstrap.
-  
-[Ver Repositório](https://github.com/lucianomenezesjr/projeto-clinica-final)
+**Desenvolvedor de Software Júnior** · 2RPnet — *Dez 2025 – Presente*
+Queries e indexação para plataforma antifraude, schedulers automatizados, motores de regras de negócio, Marketplace de APIs e dashboards com BigQuery/Looker (GCP).
 
-### Sistema de Controle de Acesso 
-*2025 - 2025*  
-- Desenvolvimento de um sistema com integração de API backend e aplicação frontend para um sistema de controle de acesso.  
-- Funcionalidades: Visualização de turma, alunos, solicitações de entrada e saida, autorização, cancelamento ou rejeição das solicitações e dashboards interativos.
-- Tecnologias: ASP .NET, Supabase (Postgres), Next.js.
+**Estagiário em Desenvolvimento de Software** · 2RPnet — *Mar 2025 – Dez 2025*
+APIs REST em C# (ASP.NET) e Python (FastAPI) para plataforma de segurança financeira · efetivado em 9 meses.
 
-[Ver Repositório](https://github.com/lucianomenezesjr/ProjetoControleDeFluxo)
+</samp>
+</div>
 
-### Sistema de Loja de Roupa - E-commerce
-*2025 - 2025*  
-- Desenvolvimento de um sistema com integração de API backend e aplicação frontend para uma loja de roupas.  
-- Funcionalidades: Visualização de produtos, pagamentos para clientes, gestão de estoque e produtos para funcionários.  
-- Tecnologias: ASP .NET, Postgres, Next.js.
+<br>
 
----
+<div align="center">
+<samp><h3>🛠️ Stack</h3></samp>
 
-## 📫 Entre em Contato
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg"/>
+<img width="42" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
 
-Quer colaborar ou conversar sobre tecnologia? Encontre-me em:
+</div>
 
-- **LinkedIn**: [Luciano Júnior](https://www.linkedin.com/in/luciano-j%C3%BAnior-89b6b7211/)  
-- **E-mail**: [luciano.menezes.jr11@gmail.com](mailto:luciano.menezes.jr11@gmail.com)  
-- **GitHub**: [lucianomenezesjr](https://github.com/lucianomenezesjr)  
+<br>
+
+<div align="center">
+<samp><h3>🚀 Projetos em destaque</h3></samp>
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🏭 LabControl 4.0** · [Repository](https://github.com/labControl4-0)
+Plataforma de monitoramento industrial implantada na AWS, com arquitetura em camadas (Edge/IoT, Supervisório, Gerencial, Estratégico), monitoramento em tempo real de máquinas e consumo energético, autenticação JWT com controle de perfis.
+`ASP.NET` `PostgreSQL` `IoT` `Next.js` `AWS`
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 BCTI — Banco de Conhecimentos Técnicos Inteligente** · [Repository](https://github.com/Pj-integrador-B-C-T-I/bancoDeDadosInteligente)
+Sistema web com chat inteligente integrado a modelo de IA para responder perguntas com base em artigos cadastrados, exibindo as fontes consultadas. MVP entregue em 3 semanas.
+`.NET` `Next.js` `PostgreSQL` `IA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚽ Wrapped de Temporada** — *Hackathon Bundesliga x AWS* 
+App mobile de estatísticas personalizadas por temporada, com backend em Java e banco PostgreSQL hospedado em Amazon RDS, implantado em infraestrutura AWS.
+`React Native` `Java` `PostgreSQL` `AWS RDS`
+
+</td>
+<td width="50%" valign="top">
+
+**📦 Recebimento Automatizado de Encomendas** — *TCC, Automação Industrial*
+Compartimento automatizado com identificação por código, geração de QR Code, validação de entrega e notificação ao proprietário — projetado, construído (corte a laser) e programado de ponta a ponta.
+`Raspberry Pi` `IoT` `QR Code`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<samp><h3>📜 Certificações</h3></samp>
+
+<samp>
+
+`AWS Academy Graduate — Cloud Developing` `Google Cloud Computing Foundations` `Oracle Java Foundations Certified Junior Associate` `Atlassian Agile Project Management` `IBM Data Science Foundations`
+
+</samp>
+</div>
+
+<br>
+
+<div align="center">
+<samp><h3>📬 Contato</h3></samp>
+
+[![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/lucianomenezesjr)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/luciano-j%C3%BAnior-89b6b7211/)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=38BDF8&labelColor=&style=for-the-badge)](mailto:luciano.menezes.jr11@gmail.com)
+[![Portfólio](https://img.shields.io/badge/portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://lucianojr-portifolio.vercel.app)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6D28D9&height=100&section=footer"/>
